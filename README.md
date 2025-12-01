@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+- 😄 Pronouns: She/Her
+
+[Follow me on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=veronicabolognesi")
 
 <!--
 **Zolletta/Zolletta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
