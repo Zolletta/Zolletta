@@ -1,20 +1,21 @@
 # Hi there 👋
 
-- 😄 Pronouns: She/Her
+I'm a cat lady 😻, super passionate about reading 📚, travelling 🌍, coding 💻, gardening 🌱, in no particular order.
 
-[Follow me on LinkedIn](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=veronicabolognesi")
 
-<!--
-**Zolletta/Zolletta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 My Tech Interests
+* **Primary Languages:** PHP 🐘, Bash 🐚
+* **DevOps & Tools:** Docker 🐳, GitLab 🦊  
+* **Currently Exploring:** Python 🐍, Go 🐹
+* **Back in the days** Javascript
+* **Digital Garden:** I maintain my own digital garden where I document my notes and projects
 
-Here are some ideas to get you started:
+ 
+## 🚀 Find Me Here
+* **My Digital Garden / Personal Website:** [zolletta.org](https://zolletta.org/)
+* **LinkedIn:** [Connect with me](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=veronicabolognesi")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+😄 Pronouns: She/Her
+ 
