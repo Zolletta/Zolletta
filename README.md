@@ -13,7 +13,7 @@ I'm a cat lady 😻, super passionate about reading 📚, travelling 🌍, codin
  
 ## 🚀 Find Me Here
 * **My Digital Garden / Personal Website:** [zolletta.org](https://zolletta.org/)
-* **LinkedIn:** [Connect with me](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=veronicabolognesi")
+* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/veronicabolognesi)
 
 ---
 
